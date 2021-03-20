@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298072725614",
+    "project_id": "easy-appointment-25f83",
+    "storage_bucket": "easy-appointment-25f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298072725614:android:2c8109926de69b1dddee7f",
+        "android_client_info": {
+          "package_name": "com.plumptech.ea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298072725614-igejg5f94g324stk62i0n8uumc6e8le6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQh0P5vmLy0zcmqlJUSXU-wCvQt7w_IPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298072725614-igejg5f94g324stk62i0n8uumc6e8le6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
